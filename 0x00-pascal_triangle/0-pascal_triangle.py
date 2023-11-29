@@ -1,10 +1,8 @@
 #!/usr/bin/python3
-'''A module for working with Pascal's triangle.
+'''A module for working with Pascal's triangle. Done
 '''
-
-
 def pascal_triangle(n):
-    '''Creates a list of lists of integers representing
+    '''Creates a list of lists of integers representing Done
     the Pascal's triangle of a given integer.
     '''
     triangle = []
